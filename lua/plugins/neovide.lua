@@ -10,7 +10,7 @@ return {
   opts = {
     options = {
       opt = {
-        guifont = "SauceCodePro NF:h14",
+        guifont = "OverpassM Nerd Font Mono:h14",
         linespace = 0,
       },
       g = {
