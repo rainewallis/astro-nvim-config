@@ -15,5 +15,6 @@ return {
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.cmake" },
+  { import = "astrocommunity.pack.gleam" },
   -- import/override with your plugins folder
 }
